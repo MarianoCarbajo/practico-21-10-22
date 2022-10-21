@@ -1,0 +1,19 @@
+{
+  "name": "practico-21-10-22",
+  "version": "1.0.0",
+  "description": "Examen 21/10/22",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianoCarbajo/practico-21-10-22.git"
+  },
+  "author": "Mariano Carbajo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianoCarbajo/practico-21-10-22/issues"
+  },
+  "homepage": "https://github.com/MarianoCarbajo/practico-21-10-22#readme"
+}

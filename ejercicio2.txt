@@ -1,0 +1,21 @@
+-Que es un objeto?
+Un objeto es una cosa que tiene funcionalidades y estados, puede ser un aparato electrónico, un automóvil, un ser vivo como un animal o el hombre mismo.
+
+-Que es una clase? A que se llama método constructor?
+Una clase es la forma de representar a un objeto a través de código de computación.
+El método constructor es parecido a una función con la cual se puede construir una clase por medio de las variables que se le van asignando.
+
+-Que son los modificadores de acceso?
+Los modificadores de acceso nos permiten definir a que variables podemos acceder fuera de la clase y a cuales no.
+
+-Que diferencia hay entre uno privado y uno protegido?
+A un método privado no se puede acceder fuera de la clase, a uno protegido se puede acceder por medio de herencia.
+
+-Cuando se usa el this?
+Se puede usar para llamar métodos o para guardar variables internas.
+
+-Cuando se usa el super?
+El super lo utilizamos con herencia.
+
+-A que se llama sub-clase, o clase hija?
+Se le llama a una clase que compone a la clase padre o super-clase.
